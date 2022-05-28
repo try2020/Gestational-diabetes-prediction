@@ -1,0 +1,2 @@
+# Gestational-diabetes-prediction
+We the Word2Vec model to extract gestational diabetes-related information, including procedure items, medications, and patients, etc. from MIMIC-IV Clinical Database. Then use the classic machine learning models and convolutional neural network CNN to accurately forecast the risk of gestational diabetes and find a new collection of phenotypes with similar ICU EHR patterns to aid in the care of Gestational diabetes patients. 
